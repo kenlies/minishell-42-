@@ -22,4 +22,4 @@ I have included the subject of the this project so that one can inspect all the 
   -  || (bonus)
   -  () (bonus)
 
-Also it has a few builtins, so not every command is system by the system.
+Also it has a few builtins, so not every command is called by the system.
