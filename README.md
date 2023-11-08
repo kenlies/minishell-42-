@@ -9,4 +9,15 @@ My plan was to also complete the bonuses which were quite complicated to impleme
 
 There was also a day or two that I spent completely for that stupid anime print, which is btw normed, so yes, I pushed that to my return repo to be evaluated. 😂
 
-I have included the subject of the this project so that one can inspect all the features and supports.
+I have included the subject of the this project so that one can inspect all the features and supports. Just to name a few though:
+
+  -  command history
+  -  quotes
+  -  redirections
+  -  pipes
+  -  environment variables
+  -  signals
+  -  wildcards for current working directory (bonus)
+  -  && (bonus)
+  -  || (bonus)
+  -  () (bonus)
