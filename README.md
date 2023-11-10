@@ -23,3 +23,6 @@ I have included the subject of the this project so that one can inspect all the 
   -  () (bonus)
 
 Also it has a few builtins, so not every command is called by the system.
+
+
+<img width="646" alt="Screen Shot 2023-11-10 at 5 10 53 PM" src="https://github.com/kenlies/minishell-42-/assets/97135325/a54d9779-152d-421e-bf37-7c998751d3c4">
